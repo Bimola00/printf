@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*call_sp - fuction that get the fun and call it and check
+*call_sp - function that get the fun and call it and check
 *for signs
 *@format: the string format
 *@i: pointer to the index of our format
